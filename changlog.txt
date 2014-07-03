@@ -1,0 +1,9 @@
+change log
+
+-- all YOUS rewritten to 1st person perspective (I).
+-- everyone has to vote at the same time!
+-- add escalation 
+-- change everyone starts with an action card
+-- change the current player gets an action card after your match ends
+-- remove discard after use from cards, add to manual
+-- add you can optionally add whatever you want to connect to the earlier insult, but must say the actual insult card
